@@ -6,3 +6,4 @@ I am Git02
 hello,I'm Git01
 welcome , Git01!
 My name is Git02,I am beautiful!!!!
+My name is Git01,I am not beautiful!!!
